@@ -1,0 +1,126 @@
+
+{
+    "nombre": "Luis Perez",
+    "edad": 22,
+    "genero": "masculino",
+    "ciudad": "Manizales"
+}
+
+{
+  "nombreProducto": "Audífonos Bluetooth",
+  "precio": 89900,
+  "categoria": "Electrónica"
+}
+
+{
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2018,
+  "color": "gris"
+}
+
+{
+  "nombreCurso": "JavaScript Básico",
+  "duracionHoras": 30,
+  "modalidad": "virtual"
+}
+
+{
+  "nombre": "Andrea Gómez",
+  "identificacion": 1032456789,
+  "programa": "Ingeniería de Sistemas",
+  "activo": true
+}
+
+{
+  "titulo": "Cien años de soledad",
+  "autor": "Gabriel García Márquez",
+  "paginas": 411,
+  "editorial": "Sudamericana"
+}
+
+{
+  "tipo": "perro",
+  "nombre": "Rocky",
+  "edad": 3,
+  "raza": "Labrador"
+}
+
+{
+  "nombre": "Carlos Huertas",
+  "cargo": "Analista",
+  "salario": 2500000,
+  "departamento": "TI"
+}
+
+{
+  "titulo": "Inception",
+  "genero": "Ciencia ficción",
+  "duracion": 148,
+  "añoEstreno": 2010
+}
+
+{
+  "titular": "María Pérez",
+  "tipoCuenta": "Ahorros",
+  "saldoActual": 1500000
+}
+
+---------
+
+{
+  "nombre": "Julián Ríos",
+  "direcciones": [
+    {
+      "ciudad": "Medellín",
+      "calle": "Calle 45",
+      "codigoPostal": "050021"
+    },
+    {
+      "ciudad": "Cali",
+      "calle": "Avenida 6N",
+      "codigoPostal": "760045"
+    }
+  ]
+}
+
+{
+  "cliente": "Lucía Fernández",
+  "productos": [
+    { "nombre": "Mouse", "precio": 45000 },
+    { "nombre": "Teclado", "precio": 70000 }
+  ],
+  "total": 115000
+}
+
+{
+  "nombre": "Daniel Castro",
+  "materias": [
+    { "nombre": "Matemáticas", "nota": 4.5 },
+    { "nombre": "Programación", "nota": 4.8 },
+    { "nombre": "Inglés", "nota": 4.0 }
+  ]
+}
+
+{
+  "empresa": "TecnoSoft",
+  "empleados": [
+    { "nombre": "Ana López", "cargo": "Desarrolladora", "salario": 3200000 },
+    { "nombre": "Pedro Ruiz", "cargo": "Diseñador", "salario": 2800000 }
+  ]
+}
+
+{
+  "nombreEscuela": "Colegio San Marcos",
+  "direccion": "Calle 12 # 4-22",
+  "grados": ["Primaria", "Secundaria", "Bachillerato"]
+}
+
+{
+  "destino": "Cartagena",
+  "fechas": {
+    "inicio": "2025-06-10",
+    "fin": "2025-06-20"
+  },
+  "pasajeros": ["María", "Jorge", "Elena"]
+}
